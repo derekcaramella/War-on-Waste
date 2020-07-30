@@ -18,7 +18,7 @@ Identify scrap redound by utilizing depositing 6.25 grams of caramel relative to
 <br>
 
 ### Dichotomous Nut Sizes
- 
+Alpha line is capable of producing Original, Bite, and Mini turtles. Following the chocolate base, nut depositor, and caramel depositor, the turtle travels through a cooling tunnel and over a wire mesh. In order to remove overapplied pecans, a spooler transition between the cooling tunnel and wire mesh permits unplaced pecans to fall through the spooler and prevent wire mesh clogging. While producing Original turtles, operations ackolwedge signifcant waste when using the Original spooler. The management staff investigated the statistical difference between utilzing the Original spooler and the Bite size spooler during Original turtle production. The results yielded statistically signifcant benefits utilizng the Bite size spooler during Original turtle production.
 <br>
 
 ### Spooler Transitions
