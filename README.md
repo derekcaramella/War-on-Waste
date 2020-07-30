@@ -18,7 +18,7 @@ Identify scrap redound by utilizing depositing 6.25 grams of caramel relative to
 <br>
 
 ### Dichotomous Nut Sizes
-Alpha line is capable of producing Original, Bite, and Mini turtles. The management team began negotiating a new supply chain contract for pecans, it became apparent the current pecan size was too cumbersome for effective Bite production. The Research and Development Senior Manager suggested utilizing smaller pecans that would encourage turtle size consistency and decrease waste. However, many team members disgarded the suggestions assuming the turtle volume [mm³] 
+Alpha line is capable of producing Original, Bite, and Mini turtles. The management team began negotiating a new supply chain contract for pecans, it became apparent the current pecan size was too cumbersome for effective Bite production. The Research and Development Senior Manager suggested utilizing smaller pecans that would encourage turtle size consistency and decrease waste. However, many team members disgarded the suggestions assuming the turtle volume [mm³] would decrease and the inconsistency is inherent. Following running multiple observations, the smaller pecans did not reduce overall turtle size and increased consistency. The project is ongoing to fortify the supply chain contract.
 <br>
 
 ### Spooler Transitions
