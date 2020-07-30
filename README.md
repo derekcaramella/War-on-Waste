@@ -1,4 +1,4 @@
-# War-on-Waste
+# War on Waste
 <hr>
 
 ## Reduce Alpha line waste to 3 percent from 11 percent.
